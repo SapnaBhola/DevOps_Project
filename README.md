@@ -25,7 +25,7 @@ You can open Model.ipynb, testing.ipynb and app.py files in Jupyter Lab or Googl
 
 ---
 
-### 5. **Usage**
+## 5. **Usage**
 
 How to run the notebook or use the project:
 
