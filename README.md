@@ -6,13 +6,6 @@ This project demonstrates how to integrate Jupyter Notebooks into a DevOps workf
 It includes sample machine learning notebooks (which contains the ML model based on the patato and tomato diseases) and Git operations to version control your work.
 
 =======
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 1. Clone the repo:
