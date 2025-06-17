@@ -3,7 +3,7 @@
 This project demonstrates how to integrate Jupyter Notebooks into a DevOps workflow using Git and GitHub.  
 It includes sample machine learning notebooks and Git operations to version control your work.
 This project demonstrates how to integrate Jupyter Notebooks into a DevOps workflow using Git and GitHub.  
-It includes sample machine learning notebooks (which contains the ML model based on the patato and tomato diseases) and Git operations to version control your work.
+It includes sample machine learning notebooks (which contains the ML model based on the potato and tomato diseases) and Git operations to version control your work.
 
 =======
 ## Installation
